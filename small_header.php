@@ -44,7 +44,7 @@
   </head>
     
   <body>
-         <header class="container-fluid herobg"> <!-- div for the main image that stretches to the edge of the page-->
+         <header class="container-fluid small_herobg"> <!-- div for the main image that stretches to the edge of the page-->
       <nav class="navbar">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -70,7 +70,6 @@
       
       
         <div class="container"> <!--div that holds the content in the middle of the page-->
-            <h1> Games Design for the Future </h1> <!-- the main tag line-->
         </div> <!--container-->
       
       </header>
